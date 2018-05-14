@@ -390,4 +390,5 @@ function startScreen() {
     text('The Wall Street Crash Noise Maker', width / 2, height / 2 - lift);
     textSize(25);
     text('press spacebar to start making noise', width / 2, height / 2 - lift + 50);
+    textAlign(LEFT);
 }
