@@ -129,6 +129,8 @@ function mouseClicked() {
                 selectedParticle.switchOnOff();
             }
         }
+    } else {
+        started = true;
     }
 }
 
