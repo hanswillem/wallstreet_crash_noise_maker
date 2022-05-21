@@ -129,9 +129,7 @@ function mouseClicked() {
                 selectedParticle.switchOnOff();
             }
         }
-    } else {
-        started = true;
-    }
+    } 
 }
 
 //pick a random year index number
